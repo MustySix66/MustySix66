@@ -1,8 +1,6 @@
 - 👋 Hola, soy @MustySix66 tambien conocido como Six.
-- 👀 Me interesa la programación y el hacking y todo ese pedo.
-- 🌱 Estudiante de ingenieria en sistemas en la UTA, tengo tsu en programación, conocedor de java y python a nivel medio-avanzado.
-- 😗 Si ocupas algun trabajo de la carrera, seguramente esté en los repositorios.
-- 👨‍💻 Hago sus tareas y proyectos por un modico precio, informes a mi correo:
+- 👀 Me interesa la programación y el hacking y todo eso.
+- 🌱 Estudiante de ingenieria en sistemas en la UTA, tengo tsu en programación, conocedor de java y python a nivel medio.
 - 📫 231011@utags.edu.mx
 
 <!---
