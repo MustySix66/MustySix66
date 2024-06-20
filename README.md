@@ -2,7 +2,7 @@
 - 👀 Me interesa la programación y el hacking y todo eso.
 - 🌱 Estudiante de ingenieria en sistemas en la UTA, tengo tsu en programación, conocedor de java y python a nivel medio.
 - 🥇 Certificados de Cursos: https://www.credly.com/users/kevinandrade/badges
-- 📫 231011@utags.edu.mx
+- 📫 Correo de contacto: kevinandrade259@gmail.com
 
 <!---
 MustySix66/MustySix66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
