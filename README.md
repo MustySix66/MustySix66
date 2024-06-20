@@ -1,7 +1,7 @@
 - 👋 Hola, soy @MustySix66 tambien conocido como Six.
 - 👀 Me interesa la programación y el hacking y todo eso.
 - 🌱 Estudiante de ingenieria en sistemas en la UTA, tengo tsu en programación, conocedor de java y python a nivel medio.
-- 🥇 Insignias de Cursos: https://www.credly.com/users/six66/badges
+- 🥇 Certificados de Cursos: https://www.credly.com/users/kevinandrade/badges
 - 📫 231011@utags.edu.mx
 
 <!---
